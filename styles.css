@@ -1,0 +1,23 @@
+
+body {
+    background-color: #F2F2F2;
+    border-top: 1px dotted black;
+}
+
+.employer-name, .school-name {
+    color: #086A87;
+}
+
+.dates { 
+    font-weight: bold;
+}
+      
+h3  { font-family: "Georgia", Georgia, serif; 
+}
+        
+h2  { color: #585858 }
+
+#foobar {
+    font-family: Helvetica;
+    text-decoration: line-through; 
+}
